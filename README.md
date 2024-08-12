@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SephoraTsh
-- 👀 I’m interested in Data, Fashion and Jewlery
+- 👀 I’m interested in Data, Fashion and Jewelery
 - 🌱 I’m currently learning anything about Data Analytics
 - 💞️ I’m looking to collaborate on GitHub!!
 - 📫 How to reach me on LinkeIN same name!
